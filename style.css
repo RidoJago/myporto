@@ -7,6 +7,10 @@
     text-decoration: none;
 }
 
+ html {
+      scroll-behavior: smooth;
+    }
+
 body {
     overflow-x: hidden;
     background: #222;
@@ -423,4 +427,5 @@ section {
 .section-title .blue {
   color: #007ced; 
 }
+
 
